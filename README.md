@@ -13,6 +13,8 @@ Extraction, and Scaling of Resume-Profiles.
     - Technologies List
     - Company List
     - Relation Between Various terminologies
+    - Another Dataset :- https://drive.google.com/open?id=1UBeiZ80iw5r-wB2Iaxe7iFUQUxJvsa0N (JSON), 
+       https://docs.peopledatalabs.com/docs/free-company-dataset (Source)
 -  To Do :-
   - Make a Relationship in between various Technologies, and how they are relating to each other.
 
