@@ -15,8 +15,8 @@ Extraction, and Scaling of Resume-Profiles.
     - Relation Between Various terminologies
     - Another Dataset :- https://drive.google.com/open?id=1UBeiZ80iw5r-wB2Iaxe7iFUQUxJvsa0N (JSON), 
        https://docs.peopledatalabs.com/docs/free-company-dataset (Source)
--  To Do :-
-  - Make a Relationship in between various Technologies, and how they are relating to each other.
+- To Do :- Make a Relationship in between various Technologies, and how they are relating to each other.
+  For eg :- Making a set as {Web Development:'JavaScript', 'Node.js','React', 'Angular',System Design:'.NET', 'ASP.NET', 'C#' }, etc.
 
 ### Python Scripts
 
